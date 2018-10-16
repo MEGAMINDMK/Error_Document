@@ -23,7 +23,7 @@ body {
             <div class="col-md-12 text-center">
                 <span class="display-1 d-block"><font color="white"><b>404</b></font></span>
                 <div class="mb-4 lead"><font color="white">The page you are looking for was not found.</font></div>
-                <a href="http://wno-host.ddns.net:90" class="btn btn-link"><font color="white"><b>Back to Home</b></font></a>
+                <a href="http://ursite.com:ports" class="btn btn-link"><font color="white"><b>Back to Home</b></font></a>
             </div>
         </div>
     </div>
